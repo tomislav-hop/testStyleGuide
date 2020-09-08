@@ -8,6 +8,7 @@ public class TestStyleGuideApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TestStyleGuideApplication.class, args);
+		System.out.println("Some change");
 	}
 
 }
